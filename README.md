@@ -1,3 +1,6 @@
+- berikut link g-drive untuk video demo = https://drive.google.com/drive/folders/1Rc68LoKcniO4sPsA53kCBFdhh_6-u1Tc?usp=sharing
+
+
 - screen shot crud local
 ![cl cover](https://github.com/user-attachments/assets/20d33a55-7a07-4a9b-bd79-8ff3de7cc42a)
 <img width="1033" height="614" alt="image" src="https://github.com/user-attachments/assets/52879cb3-4abf-446a-8ce8-c39a61b2c79c" />
